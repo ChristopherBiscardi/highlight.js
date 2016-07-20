@@ -1,16 +1,14 @@
 {
-  "name": "highlight.js",
-  "description": "Syntax highlighting with language autodetection.",
+  "name": "hljs-modules",
+  "description": "Syntax highlighting with language autodetection and CSS Modules support.",
   "keywords": [
     "highlight",
-    "syntax"
+    "syntax",
+    "modules"
   ],
   "homepage": "https://highlightjs.org/",
   "version": "9.5.0",
-  "author": {
-    "name": "Ivan Sagalaev",
-    "email": "maniac@softwaremaniacs.org"
-  },
+  "author": "Chris Biscardi <chris@christopherbiscardi.com> (http://www.christopherbiscardi.com/)"
   "contributors": [],
   "bugs": {
     "url": "https://github.com/isagalaev/highlight.js/issues"
